@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328220217421",
+    "project_id": "bestudiantil1-17468",
+    "storage_bucket": "bestudiantil1-17468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328220217421:android:9d6b6c89dc600baf144c04",
+        "android_client_info": {
+          "package_name": "com.example.bestudiantil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328220217421-5jlbfsrmeh6dt926i3f51n9c8l8obm5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3J9y-rSvY2C5uc1LguceZYCxoyir9xRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328220217421-5jlbfsrmeh6dt926i3f51n9c8l8obm5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
